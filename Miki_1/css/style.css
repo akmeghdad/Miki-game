@@ -1,0 +1,26 @@
+body{
+    background-color: yellowgreen;
+    margin: 0;
+}
+.miki{
+    background-color: white;
+    width: 900px;
+    height: 900px;
+    display: block;
+}
+main{
+    display: flex;
+    flex-direction: row;
+
+}
+aside{
+    margin-left: 10px;
+}
+
+#mikimg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+
+}
